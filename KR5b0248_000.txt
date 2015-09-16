@@ -1,0 +1,7 @@
+# -*- mode: mandoku-view; -*-
+#+DATE: 2015-08-29 00:14:49.915204
+#+TITLE: 太上慈悲道場滅罪水懺
+#+PROPERTY: DZID  DZ0545
+#+PROPERTY: SOURCE  正統道藏，三家本，1988，10—121 一卷 洞玄部威儀類
+#+PROPERTY: BASEEDITION HFL
+#+PROPERTY: WITNESS HFL
